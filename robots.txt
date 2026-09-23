@@ -1,0 +1,9 @@
+User-agent: *
+Allow: /
+
+# Allow CSS and JS explicitly for rendering
+Allow: /styles.css
+Allow: /script.js
+
+# Sitemap location - replace with your actual GitHub Pages URL if different
+Sitemap: https://dorisengstrom210.github.io/striptks/sitemap.xml
